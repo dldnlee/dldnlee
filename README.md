@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Lee
+- 👋 Hi, I’m Eun Won Lee
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning web programming, android app programming, databases.
 - 💞️ I’m looking to collaborate on whatever seems fit.
