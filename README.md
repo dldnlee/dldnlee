@@ -5,7 +5,7 @@
 - 📫 How to reach me: you can send me a mail @ sungeun8877@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldnlee)
 
 <!---
 dldnlee/dldnlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
